@@ -10,3 +10,4 @@ Implementa una función que reciba un array que contenga los nombres de las pers
 ["Alex", "Jacobo", "Marcos", "Max"]  -->  "A Alex, Jacobo y 2 personas más les gusta esto"
 
 Nota: Para 4 o más nombres, el número en "y 2 personas más" simplemente aumenta.
+
